@@ -1,0 +1,16 @@
+apk doraemonapps
+digunakan untuk warga, warga dapat login dengan no hp yang kemudian di verifikasi dengan sms. minimal apk berjalan di
+platform 4.3 jelybean 
+
+apk suneoapps
+digunakan untuk sopir ambulance
+
+apk shizukaapps
+dignakan oleh dokter
+
+apk nobitaapps
+digunakan oleh pengawal ambulance
+
+no hp dan password untuk apk suneo, shizuka dan nobita 
+no hp = 085799827560
+pass = azka12345
